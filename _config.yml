@@ -1,0 +1,23 @@
+title: "right-ward"
+description: "Building things, breaking things, and occasionally fixing them."
+url: "https://right-ward.github.io"
+baseurl: ""
+lang: "en"
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+
+remote_theme: b2a3e8/jekyll-theme-console
+plugins:
+  - jekyll-seo-tag
+header_pages:
+  - index.md
+  - about.md
+style: dark
+listen_for_clients_preferred_style: true
+disable_google_fonts: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
