@@ -8,13 +8,16 @@ permalink: /blog/:year/:month/:day/:title/
 
 remote_theme: b2a3e8/jekyll-theme-console
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
 header_pages:
-  - index.md
+  - index.html
+  - projects.md
   - about.md
 style: dark
 listen_for_clients_preferred_style: true
 disable_google_fonts: true
+footer: '© right-ward · <a href="https://github.com/right-ward">GitHub</a>'
 
 exclude:
   - Gemfile
