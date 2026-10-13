@@ -13,7 +13,7 @@ A home for the software, experiments, and open-source work I want to share.
 
 A roguelike built with Rust and Bevy.
 
-[Go to page]({{ '/projects/ashen_chronicle/' | relative_url }})
+[Go to page]({{ '/ashen_chronicle' | relative_url }})
 [View repository](https://github.com/right-ward/ashen_chronicle)
 
 ## ShizuLog fork
