@@ -23,6 +23,14 @@ A seed-driven music engine that generates evolving, layered soundtracks at runti
 
 [Project page]({{ '/verdandi/' | relative_url }}) · [Docs & API guides]({{ '/verdandi/docs/' | relative_url }}) · [View repository](https://github.com/right-ward/verdandi)
 
+## Orpheus
+
+**Android preservation · Kotlin · Android**
+
+An Android-first preservation prototype for saving user-selected files and obtainable application state before a wipe. It verifies archive contents and reports gaps instead of promising a complete device clone. Restoration and broader personal-data support remain in development.
+
+[Project page]({{ '/orpheus/' | relative_url }}) · [Guide & limitations]({{ '/orpheus/docs/' | relative_url }}) · [View repository](https://github.com/right-ward/orpheus)
+
 ## ShizuLog fork
 
 **Open-source contribution · Android**
