@@ -31,6 +31,28 @@ An Android-first preservation prototype for saving user-selected files and obtai
 
 [Project page]({{ '/orpheus/' | relative_url }}) · [Guide & limitations]({{ '/orpheus/docs/' | relative_url }}) · [View repository](https://github.com/right-ward/orpheus)
 
+## Unciv mods
+
+### Order of Aurelia
+
+An extension mod for **Unciv - Gods & Kings**, centered on King Lucian and a civilization built around social cohesion, professional institutions, scientific development, and defensive military organization.
+
+[View repository](https://github.com/right-ward/order-of-aurelia)
+
+### NMod
+
+An **Unciv** mod that adds nations, policies, buildings, and specialized units—including Agent spy units—while keeping the base ruleset intact to preserve the espionage mechanics.
+
+[View repository](https://github.com/right-ward/NMod)
+
+## My Notes
+
+**Web app · Cloudflare Workers**
+
+A lightweight notes app with keyboard-driven search and navigation, deployed on Cloudflare Workers.
+
+[View repository](https://github.com/right-ward/my-notes)
+
 ## ShizuLog fork
 
 **Open-source contribution · Android**
